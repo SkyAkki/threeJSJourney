@@ -22,7 +22,7 @@ We need 4 elements to get started:
     * We can have multiple cameras if required, or move the existing cameras
     * In this lesson, we used *Perspective camera*  (making close objects look more prominent than far objects).
     * Camera needs: FOV -> Aspect ratio
-    * *The field of view* is how large your vision angle is. If you use a very large angle, you'll be able to see in every direction at once but with much distortion, because the result will be drawn on a small rectangle. If you use a small angle, things will look zoomed in.
+    * *The field of view* is how large your vision angle is. If you use a very large angle, you'll be able to see in every direction at once but with much distortion, because the result will be drawn on a small rectangle. If you use a small angle, things will look zoomed in. *IN Three.js, FOV is how much of the VERTICAL field of view you can see*.
     * FOV is expressed in degrees
     * *Aspect Raio* is the width of the canvas divided by its height.
     * *Dont forget to add camera to the scene*
