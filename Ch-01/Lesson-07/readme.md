@@ -1,6 +1,6 @@
 # Chapter-01: Basics
 
-## Lesson-06: Animations
+## Lesson-07: Animations
 
 ### Types Of Cameras
 1. CAMERA CLASS: The Camera class is what we call an abstract class. You're not supposed to use it directly, but you can inherit from it to have access to common properties and methods.
