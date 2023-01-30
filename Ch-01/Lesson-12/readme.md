@@ -22,7 +22,7 @@ Materials are used to put a color on each visible pixel of the geometries. The a
 3. *MeshMatcapMaterial*:
     * MeshMatcapMaterial is a fantastic material because of how great it can look while being very performant.
     * For it to work, the MeshMatcapMaterial needs a reference texture that looks like a sphere The material will then pick colors on the texture according to the normal orientation relative to the camera.
-    * The material.matcap property is used to set the reference matcap texture.
+    * The *material.matcap* property is used to set the reference matcap texture.
     * The meshes will appear illuminated, but it's just a texture that looks like it i.e. matcap does not support lights and the shading on the matcap surface is controlled directly by the matcap image.
     * Find MatCaps here: https://github.com/nidorx/matcaps
 4. *MeshDepthMaterial*:
